@@ -2,7 +2,7 @@ import os
 import re
 target_path=r"D:\OneDrive - CUHK-Shenzhen\Linkeer365BookReview\source\_posts\【长期更新】每日传书计划.md"
 
-modify_path=r"D:\checkifuploaded\mm.txt"
+modify_path=r"D:\check_uploaded_info\mm.txt"
 
 with open(target_path,"r",encoding="utf-8") as f:
     lines=[each for each in f.readlines() if each!="\n"]

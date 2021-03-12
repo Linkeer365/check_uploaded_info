@@ -2,7 +2,7 @@ import os
 
 book_path=r"D:\OneDrive - CUHK-Shenzhen\Linkeer365BookReview\source\_posts\【长期更新】每日传书计划.md"
 author_path=r"D:\OneDrive - CUHK-Shenzhen\Linkeer365BookReview\source\_posts\last_authors.txt"
-missing_author_path=r"D:\checkifuploaded\missing_authors.txt"  
+missing_author_path=r"D:\check_uploaded_info\missing_authors.txt"  
 authors=[]
 missing_lines=[]
 
